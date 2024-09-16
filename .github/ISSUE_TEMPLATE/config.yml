@@ -1,8 +1,8 @@
-blank_issues_enabled: false
+inblank_issues_enabled: false
 contact_links:
   - name: Community Support
-    url: https://discord.gg/unblock
+    url: https://discord.gg/something
     about: Please ask and answer questions here.
-  - name: Heroku, Repl.it, Blocked site issues
+  - name: Heroku, Repl.it, something site issues
     url: https://www.youtube.com/watch?v=BLUkgRAy_Vo
     about: Do not create issues for these.
